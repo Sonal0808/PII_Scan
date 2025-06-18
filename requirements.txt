@@ -1,3 +1,7 @@
 streamlit
 pandas
 openpyxl
+python-docx
+PyMuPDF
+extract-msg
+lxml
